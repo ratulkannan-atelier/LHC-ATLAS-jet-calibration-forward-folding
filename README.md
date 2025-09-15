@@ -78,7 +78,7 @@ Final JER curve with functional fit, demonstrating the detector’s resolution a
 ## How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LHC-ATLAS-jet-calibration-forward-folding.git
+git clone https://github.com/ratulkannan-atelier/LHC-ATLAS-jet-calibration-forward-folding.git
 cd LHC-ATLAS-jet-calibration-forward-folding
 
 # Install dependencies
